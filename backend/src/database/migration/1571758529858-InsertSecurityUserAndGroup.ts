@@ -4,7 +4,7 @@ import Group from '../../app/entity/Group';
 
 const adminUser = new User();
 adminUser.name = 'Administrator';
-adminUser.email = 'admin@wallupcms.com';
+adminUser.email = 'admin@painkiller.com';
 adminUser.hash = '$2a$08$CodBEGnFAGEiux2mudJBOOyoIXdQ3GRKSKaAV/zmpPHCCTIQbm5Je';
 adminUser.blocked = false;
 
