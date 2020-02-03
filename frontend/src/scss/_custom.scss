@@ -1,0 +1,25 @@
+// Here you can add other styles
+
+// Capitalize fst letter of all Formik Field validation messages
+.capitalize-first-letter::first-letter {
+  text-transform: uppercase;
+}
+
+
+// Visual Effect applied on InputDate form field component
+.calendar-prepend:hover {
+  color: #3EA661;
+  transition: 0.4s ease-in;
+  opacity: 0.9;
+}
+
+.calendar-prepend:focus {
+  outline: none;
+}
+
+.calendar-prepend-rounded-border {
+  border-radius: 0 4px 4px 0!important;
+}
+.textarea-noresize {
+  resize: none;
+}
