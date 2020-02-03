@@ -40,6 +40,8 @@ npm start
 * ExpressJs
 * Typeorm
 * Yup
+* CoreUI Admin Template
+* Bootstrap
 
 ## Contributing
 
