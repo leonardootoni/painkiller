@@ -10,7 +10,7 @@ git clone https://github.com/leonardootoni/painkiller
 
 ### Prerequisites
 
-This project was written using Typescript, Express, Typeorm, React and Redis.
+This project was written using Typescript, Express, Typeorm, React and Redis on top of CoreUi and Bootstrap.
 Moreover, the authorization rules are stored in the database and are cached during the backend startup.
 The project is stable using PostgreSQL. However, considering that TypeORM has support to many other databases, there is a high probablity to all migrations work well with any database.
 
